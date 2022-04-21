@@ -1,7 +1,7 @@
 ### john vizurraga
 
 ### Manufacturing Supervisor 
-- 🔭Pharma/Bioscience 
+- 🔭[Pharma/Bioscience](www.linkedin.com/in/john-vizurraga-05165020) 
 - 😄Future Data Analyst
 - ⚡Live for surfing and going for long motorcycle rides
 - 🌱Currently working on Analytic bootcamp
