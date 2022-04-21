@@ -3,7 +3,7 @@
 ### Manufacturing Supervisor 
 - 🔭Cell and Gene Therapy Supervisor
 - 😄Future Data Analyst
-- ⚡Live for surfing and going for long rides
+- ⚡Live for surfing and going for long motorcycle rides
 - 🌱Currently working on Analytic bootcamp
 
 
