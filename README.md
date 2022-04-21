@@ -1,4 +1,11 @@
-### Hi there 👋
+### john vizurraga
+
+### Manufacturing Supervisor 
+- 🔭Cell and Gene Therapy Supervisor
+- 😄Future Data Analyst
+- ⚡Live for surfing and going for long rides
+- 🌱Currently working on Analytic bootcamp
+
 
 <!--
 **johnvizurraga/johnvizurraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
