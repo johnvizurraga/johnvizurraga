@@ -1,7 +1,7 @@
 ### john vizurraga
 
 ### Manufacturing Supervisor 
-- 🔭Cell and Gene Therapy Supervisor
+- 🔭Pharma/Bioscience 
 - 😄Future Data Analyst
 - ⚡Live for surfing and going for long motorcycle rides
 - 🌱Currently working on Analytic bootcamp
